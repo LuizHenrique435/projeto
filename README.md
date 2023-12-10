@@ -31,10 +31,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+## 💻 Projeto
+
+O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Luiz Henrique Souza Silva 
+Feito com ♥ by Luiz Henrique Souza Silva :wave:
